@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+venv/
+env/
+.venv/
+ENV/
+
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Byte-compiled / logs
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and outputs (ignore large/binary model files)
+output/*.safetensors
+output/*.pt
+output/adapter_model.safetensors
+output/*.ckpt
+output/*.bin
+
+# Ignore any local secrets
+*.env
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+tmp/
+temp/

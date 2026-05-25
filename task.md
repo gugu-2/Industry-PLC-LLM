@@ -1,0 +1,6 @@
+- [x] Update `src/stackoverflow_scraper.py` to strip HTML using BeautifulSoup
+- [x] Update `src/clean_dataset.py` to use advanced regex heuristics for PLC code
+- [x] Update `src/github_scraper.py` to include vendor-specific instruction prompts
+- [x] Update `src/huggingface_ingest.py` to filter out empty/small ST files
+- [x] Write `verify_dataset.py` to run automated quality checks
+- [ ] Execute all scrapers and cleaners to regenerate `data/train_clean.jsonl`
