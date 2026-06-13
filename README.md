@@ -34,3 +34,5 @@ See the following files for more details:
 - [SETUP.md](SETUP.md) - How to install and run the pipeline.
 - [FEATURES.md](FEATURES.md) - Features enabled by this dataset.
 - [TRAINING.md](TRAINING.md) - How to fine-tune an LLM with the generated data.
+
+### Email me on majipritam47@gmail.com For any enquiry.
