@@ -8,6 +8,7 @@ Industrial engineers waste countless hours debugging proprietary hardware code (
 
 This repository solves this problem by systematically hunting down, extracting, and formatting proprietary PLC data across the internet to build the ultimate fine-tuning dataset for models like Llama-3 or Gemma-2.
 
+---
 ## Supported Architectures
 
 The pipeline actively extracts and formats data for:
